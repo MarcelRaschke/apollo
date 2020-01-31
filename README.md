@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/MarcelRaschke/apollo.svg)](https://greenkeeper.io/)
+
 This is the main repository for discussion and coordination - the code will live elsewhere. Follow this repository for updates on the project!
 
 - Check out the [homepage](http://www.apollographql.com/)
